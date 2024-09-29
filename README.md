@@ -1,6 +1,6 @@
-# 6w_2023_event_mng_akriti
+# 6w_2023_event_mng_ekam
 
 -Event Planning
--Akriti
--DAV University
+-Ekam
+-DAVIET
 -Core Python
